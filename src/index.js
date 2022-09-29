@@ -5,7 +5,7 @@ import {SafeAreaProvider} from 'react-native-safe-area-context';
 import {NavigationContainer} from '@react-navigation/native';
 import MainStack from './navigators';
 
-//abc
+//test push
 
 const App = () => {
   return (
