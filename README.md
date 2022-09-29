@@ -1,7 +1,7 @@
 # CI-CD_React_Native2
 
 ios
-[![Build status](https://build.appcenter.ms/v0.1/apps/ebe78185-5d23-4343-b034-8beb2ccfd7d8/branches/main/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/c81f32cc-c15c-4598-8563-aa24f1824166/branches/main/badge)](https://appcenter.ms)
 
 android
-[![Build status](https://build.appcenter.ms/v0.1/apps/e0e5971d-7a28-4a26-bc17-3d1d9faac58a/branches/main/badge)](https://appcenter.ms)
+[![Build status](https://build.appcenter.ms/v0.1/apps/c72ba341-1871-46c1-96b6-25548ad83377/branches/main/badge)](https://appcenter.ms)
