@@ -6,6 +6,7 @@ import {NavigationContainer} from '@react-navigation/native';
 import MainStack from './navigators';
 
 //test push
+//test feature/1
 
 const App = () => {
   return (
