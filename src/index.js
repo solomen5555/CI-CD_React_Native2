@@ -7,6 +7,7 @@ import MainStack from './navigators';
 
 //test push
 //test feature/1
+// dev
 
 const App = () => {
   return (
